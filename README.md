@@ -15,4 +15,4 @@ Here it is available the code (/src) and different notebooks (/notebooks) to rep
     - **4_Pharmacology_PredictiveModels.ipynb** trains and evaluates the invidual models predicting pharmacological bioactivity.
     - **5_Safety_PredictiveModels.ipynb** trains and evaluates the individual classifiers predicting side-effect reportance.
   
-*Important*: Data folder contains predictive model results to analyse the outcomes. Original molecule data (/data/1_data and /data/2_data) to train the models will be made accessible upon request.
+*Important*: Data folder contains predictive model results to analyse the outcomes. Original molecule data (/1_data and /2_data) to train the models will be made accessible upon request.
