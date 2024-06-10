@@ -9,7 +9,7 @@ This repository contains the code and notebooks required to reproduce our work a
     - **[5_data](data/5_data/)** contains predictive performance of the individual classifiers predicting side-effect presence based on physicochemical, structural and morphological descriptors.
     - **[cp_top_models](data/cp_top_models/)** contains the six top-performing pharmacology models: CDK5, MITF, RET, MAP4K5, MAP2K1, MINK1.
 - **[src](src/)** contains the source code with all functions called by the notebooks.
-- **[notebooks](notebooks/)** contains the necessary Jupyter Notebooks to reproduce our work and inspect the results.
+- **[notebooks](notebooks/)** contains the necessary Jupyter Notebooks to reproduce the experiments and build upon the results reported.
     - **1_CellPaintingData_prepocessing.ipynb**: Pipeline to preprocess compound morphological profiles derived from the cell painting assay.
     - **2_Molecular_Descriptors_Calculation.ipynb**: Calculates the four molecular descriptors considered in the project to represent the chemical properties and structural information of compounds.
     - **3_CellPaintingFeatures_PredictiveModels.ipynb**: Trains and evaluates the individual regressors that predict cell painting morphological features.
