@@ -7,6 +7,7 @@ Here it is available the code (/src) and different notebooks (/notebooks) to rep
     - **[3_data](data/3_data/)** contains predictive performeance of the individual regressors predicting morphological features based on chemical data.
     - **[4_data](data/4_data/)** contains predictive performance of the individual models predicting target bioactivity based on physicochemical, structural and morphological descriptors. 
     - **[5_data](data/5_data/)** contains predictive performance of the individual classifiers predicting side-effect presence based on physicochemical, structural and morphological descriptors.
+    - **[cp_top_models](data/cp_top_models/)** contains the six top-performing pharmacology models: CDK5, MITF, RET, MAP4K5, MAP2K1, MINK1.
 - **[src](src/)** contains the source code cotaining all functions called by the Notebooks.
 - **[notebooks](notebooks/)** contains the necessary Notebooks to reproduce our work and inspect the results.
     - **1_CellPaintingData_prepocessing.ipynb** includes the pipeline implemented on the project to preprocess the compound morphological profiles derived from the cell painting assay.
